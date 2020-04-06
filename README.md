@@ -10,6 +10,7 @@ The app uses Mongo database with a Mongoose schema and handle routes with Expres
 # Deploy link
 
 
+# Screeshot
 
 ![GitHub Logo](public/images/screeshot1.PNG)
 
